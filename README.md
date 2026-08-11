@@ -345,7 +345,7 @@ Users should independently verify financial information before making investment
 ## 🔗 Live Demo
 
 **Telegram Bot:**
-https://t.me/atlas_financial_advice_ai_bot
+[https://t.me/atlas_financial_advice_ai_bot](http://t.me/AtlasSignalDeskAI_bot)
 
 ---
 
