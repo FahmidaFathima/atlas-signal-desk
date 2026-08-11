@@ -1,0 +1,29 @@
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloaded user files
+downloads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
